@@ -18,8 +18,8 @@ Esta aplicação permite a comunicação em tempo real entre usuários através 
 
 ## 🛠️ Tecnologias
 
-- Java
-- Spring Boot
+- Java 21
+- Spring Boot 
 - WebSocket
 - STOMP
 - Maven
@@ -30,7 +30,7 @@ Para rodar a aplicação localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/Felipe-Silva223/Websocket_Chat
     
 
 2. Navegue até o diretório do projeto:
@@ -71,5 +71,5 @@ Contribuições são bem-vindas! Se você tiver sugestões, encontre algum probl
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
